@@ -1,5 +1,5 @@
 vless://4bf7ea6a1e14@127.0.0.1:443?security=&type=tcp&headerType=http&host=example.com&encryption=none#%E2%8F%B1%EF%B8%8FExpired%20Date[V20VPN]:%201403/05/20
-vless://4bf7ea6a1e14@127.0.0.1:443?security=&type=tcp&headerType=http&host=example.com&encryption=none#%F0%9F%94%8BTraffic%20Left[V20VPN]:%2098.15%20GB%20(100%20GB)
+vless://4bf7ea6a1e14@127.0.0.1:443?security=&type=tcp&headerType=http&host=example.com&encryption=none#%F0%9F%94%8BTraffic%20Left[V20VPN]:%20100.00%20GB%20(100%20GB)
 vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@iranserver.com:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%91%89%F0%9F%86%94%20V20VPN%20%F0%9F%9F%A3%20Telegram%20
 vless://ae52d7a4-57bd-48f1-9343-f4557444071e@iranserver.com:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%91%89%F0%9F%86%94%20V20VPN%20%F0%9F%9F%A3%20Telegram%20
 vless://Telegram-ipV2Ray-mkp@www.speedtest.net:80?security=&type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20V20VPN%20%F0%9F%9F%A3%20Telegram%20
